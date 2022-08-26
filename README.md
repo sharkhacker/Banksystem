@@ -13,4 +13,5 @@ In terms of the highlights of this Bank Management System in C++ framework, a cl
 #Conclusion : 
 The system automates basic banking activities to aid a bank clerk’s day-to-day operations. Additionally, the system’s purpose is to allow for the storage of information for a large number of client accounts, as well as the ability to add, retrieve, and edit information for any account.
 
-![image](https://user-images.githubusercontent.com/75437460/186989578-160a1e42-0c33-4a68-b741-754fb2d7bf90.png)
+![bsm](https://user-images.githubusercontent.com/75437460/186990640-7772d2eb-f103-470b-8018-2e317d085d1b.png)
+
